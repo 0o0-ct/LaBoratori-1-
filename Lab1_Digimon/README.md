@@ -1,21 +1,17 @@
 
 # Laboratorio 1 - Juego de Batalla Digimon
-
-## Descripción
-Este proyecto implementa un juego de batalla entre entrenadores de Digimon siguiendo las especificaciones del Laboratorio 1 de Programación Orientada a Objetos.
-
 ## Estructura del Proyecto
 ```
 Lab1_Digimon/
 ├── src/
-│   ├── Digimon.java          # Clase principal de Digimon
-│   ├── Digievolución.java    # Clase para habilidades especiales
-│   ├── Entrenador.java       # Clase para manejar entrenadores
-│   ├── Batalla.java          # Lógica de batalla individual
-│   ├── Juego.java           # Control del flujo del juego
-│   └── Main.java            # Clase principal ejecutable
+│   ├── Digimon.java          
+│   ├── Digievolución.java   
+│   ├── Entrenador.java       
+│   ├── Batalla.java          
+│   ├── Juego.java           
+│   └── Main.java           
 ├── tests/
-│   └── TestDigimon.java     # Pruebas básicas del sistema
+│   └── TestDigimon.java    
 └── README.md
 ```
 
