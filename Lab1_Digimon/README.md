@@ -63,7 +63,7 @@ Lab1_Digimon/
 
 ### Compilar el proyecto:
 ```bash
-cd /home/ubuntu/Lab1_Digimon
+cd /home/Arch-Linux/Lab1_Digimon
 javac src/*.java
 ```
 
@@ -85,12 +85,4 @@ java -cp src:tests TestDigimon
 - ✅ Sistema de 4 rondas con marcador
 - ✅ Prevención de reutilización de Digimon
 - ✅ Casos de prueba básicos
-- ✅ Código orientado a objetos con encapsulamiento apropiado
-- ✅ Comentarios y documentación clara
 
-## Notas de Implementación
-- El código está diseñado para estudiantes de segundo semestre
-- Se utilizan conceptos básicos de POO: clases, objetos, herencia, encapsulamiento
-- La interfaz es por consola para simplicidad
-- Se incluyen validaciones básicas para entrada de usuario
-- El sistema de probabilidades usa Random de Java
