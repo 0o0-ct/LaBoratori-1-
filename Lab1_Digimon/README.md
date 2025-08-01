@@ -63,7 +63,7 @@ Lab1_Digimon/
 
 ### Compilar el proyecto:
 ```bash
-cd /home/Arch-Linux/Lab1_Digimon
+lsd /home/Arch-Linux/Lab1_Digimon
 javac src/*.java
 ```
 
